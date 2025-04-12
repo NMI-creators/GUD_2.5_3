@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>凱友伝 旧二.五章 話</title>
+  <title>凱友伝 旧二.五章 3話</title>
   <style>
     body {
       font-family: sans-serif;
@@ -20,10 +20,10 @@
   </style>
 </head>
 <body>
-  <h1>凱友伝 旧二.五章 話</h1>
+  <h1>凱友伝 旧二.五章 3話</h1>
   
   <video controls>
-    <source src="動画のファイル名" type="video/mp4">
+    <source src="二次創作Ｎｏ．3_2024_11_04_03_34_29(1).mp4" type="video/mp4">
     お使いのブラウザでは動画を再生できません。
   </video>
 
